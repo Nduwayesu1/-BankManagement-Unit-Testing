@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module BankAccountManagement {
+	requires junit;
+}
